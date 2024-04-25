@@ -39,8 +39,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,java,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -54,11 +53,6 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
-
-<br/><br/>
-
-<hr/>
 
 <br/>
 <div>
