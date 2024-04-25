@@ -64,8 +64,6 @@
 <div>
     <img src="https://bandada.club/.media/df31879bb9c4c2f4769a47ea77a12a758415201efa0ee2cd8f845a00aafd335b.jpg"/>
 </div>
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+
 
 <br/>
